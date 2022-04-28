@@ -1,0 +1,34 @@
+.app{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+form{
+  background-color: rgb(241, 212, 212);
+  padding: 0px 60px;
+  border-radius: 10px;
+}
+
+h1{
+  color: purple;
+  text-align: center;
+  font-weight: 1000;
+  
+}
+
+button{
+  width: 100%;
+  height: 50px;
+  padding: 10px;
+  border: none;
+  background-color: purple;
+  color: white;
+  border-radius: 10px;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  font-weight: bold;
+}
